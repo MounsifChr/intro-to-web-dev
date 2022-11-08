@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "Brian Holt",
+    "company": "Stripe"
+  },
+  "title": "Intro to Web Development",
+  "subtitle": "Learn to write websites with HTML, CSS, and JavaScript",
+  "frontendMastersLink": "https://frontendmasters.com/courses/web-development-v3/",
+  "social": {
+    "linkedin": "mounsif-cherfaoui",
+    "github": "MounsifChr"
+  },
+  "description": "Learn to be a web developer from nothing from industry veteran Brian Holt",
+  "keywords": [
+    "web dev",
+    "web developer",
+    "css",
+    "javascript",
+    "html",
+    "visual studio code",
+    "learn to code"
+  ],
+  "productionBaseUrl": "/intro-to-web-dev"
+}
