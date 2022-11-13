@@ -8,12 +8,12 @@ This will stretch you a bit and make you use everything we learned together. It'
 
 We're going to make the checkout page for a coffee app. It looks like this:
 
-![Coffee app design](/complete-intro-to-web-dev-v3/images/coffee_masters.png)
+![Coffee app design](/intro-to-web-dev/images/coffee_masters.png)
 
 Some notes:
 
 - You get to do the HTML and the CSS here.
-- [The logo for Coffee Masters is here.](/complete-intro-to-web-dev-v3/images/coffee_masters_logo.png)
+- [The logo for Coffee Masters is here.](/intro-to-web-dev/images/coffee_masters_logo.png)
 - We didn't talk about how to make rounded corners. It's with [border-radius][border-radius].
 - There are many ways to do this. Flex and grid would work well, just don't go overboard with grid, it'd be hard to 100% handle this layout in just grid.
 - HTML inputs can be styled with HTML just as you expect.
